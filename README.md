@@ -7,7 +7,7 @@
 Laboratorium polegało na pisaniu symulacji działania różnych części systemu operacyjnego. Ponadto należało napisać kilka
 algorytmów realizujących to samo, każdy w różny sposób. Ostatnim punktem było porównanie wyników i ich interpretacja.
 
-# Tematy:
+# Tematy opisane zwięźle, po więcej szczegółów odsyłam do [podsumowania kursu](https://github.com/Remmo1/Computer_Simulations/blob/'main'/README.md):
 
 Lab1: Przydział zasobów procesora przychodzącym procesom, algorytmy: FCFS, SJF, SRTF, RR.
 
