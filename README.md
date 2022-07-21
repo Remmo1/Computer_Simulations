@@ -1,4 +1,4 @@
-# Organizacja Systemów Komputerowych
+# Systemy Operacyjne
 
 ## Politechnika Wrocławska
 
@@ -17,4 +17,4 @@ Lab3: Stronicowanie, algorytmy: ALRU, FIFO, LRU, OPT, RAND.
 
 Lab4: Trudniejsza wersja laboratorium nr 3, zastępowanie stron odbywa się algorytmem LRU, pewna ilość procesów czeka na ramki przydzielane przez system, który stosuje: przydział proporcjonalny, przydział równy, sterowanie częstością błędów strony, model strefowy.
 
-Lab5: Symulacja rozproszonego algorymtu równoważącego obciążenie procesorów, wg trzech podanych strategii. [Więcej szczegółów](https://github.com/Remmo1/Computer_Simulations/blob/'main'/ListaV/Temat5.png)
+Lab5: Symulacja rozproszonego algorymtu równoważącego obciążenie procesorów, wg trzech podanych strategii.
